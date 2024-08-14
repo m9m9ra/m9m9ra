@@ -16,14 +16,14 @@
 - [Telegram_channel](https://t.me/m9m9ra_channel)
 - [Email](mailto:vasa4g@gmail.com)
 
+## 🛠 Технологии
 
-- 👋 Hi, I’m @m9m9ra
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+| Технология   | Уровень      |
+|--------------|--------------|
+| Flutter      | ★★★★☆        |
+| JavaScript   | ★★★☆☆        |
+| React-Native | ★★★★☆        |
+
 
 <!---
 m9m9ra/m9m9ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
