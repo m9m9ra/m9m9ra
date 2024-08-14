@@ -1,19 +1,20 @@
-# Привет, я Игорь 👋
+# Привет, я Игорь (@m9m9ra | Developer) 👋
 
 ## 🚀 Информация обо мне
-Я разработчица с опытом работы в [языки/технологии].
+Я разработчик с опытом работы в Flutter/React-Native.
 
 ## 💻 Навыки
-- Языки: Python, JavaScript, Go
-- Фреймворки: React, Django
+- Языки: JavaScript, TypeScript, Dart, bash, sql, node.js
+- Фреймворки: Flutter, React Native, Express, Vue.js
 
 ## 📂 Проекты
 - [Проект 1](https://github.com/ваш-логин/project1) - Краткое описание.
 - [Проект 2](https://github.com/ваш-логин/project2) - Краткое описание.
 
 ## 📫 Контакты
-- [LinkedIn](https://linkedin.com/in/ваш-логин)
-- [Email](mailto:ваш-email@example.com)
+- [Telegram](https://t.me/m9m9ra)
+- [Telegram_channel](https://t.me/m9m9ra_channel)
+- [Email](mailto:vasa4g@gmail.com)
 
 
 - 👋 Hi, I’m @m9m9ra
