@@ -22,11 +22,12 @@
 
 ## 🛠 Технологии
 
-| Технология   | Уровень      |
-|--------------|--------------|
-| Flutter      | ★★★★☆        |
-| JavaScript   | ★★★☆☆        |
-| React-Native | ★★★★☆        |
+| Технология   | Уровень      | Проект       |
+|--------------|--------------|--------------|
+| Flutter      | ★★★★★        | [TODOIS](https://www.rustore.ru/catalog/app/com.m9m9ra.todois) |
+| React-Native | ★★★★★        | [Беготрек_beta](https://github.com/m9m9ra/RN-running-mobile/tree/v0.0.5) |
+| Dart         | ★★★★☆        | [Coming soon]|
+| TypeScript   | ★★★★☆        | [Not A Bot](https://github.com/m9m9ra/not-a-bot) |
 
 
 <!---
