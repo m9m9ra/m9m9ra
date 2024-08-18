@@ -16,9 +16,9 @@
 - [Проект 2](https://github.com/ваш-логин/project2) - Краткое описание.
 
 ## 📫 Контакты
-- [Telegram](https://t.me/m9m9ra)
-- [Telegram_channel](https://t.me/m9m9ra_channel)
-- [Email](mailto:vasa4g@gmail.com)
+- [Telegram @m9m9ra](https://t.me/m9m9ra)
+- [Telegram_channel @m9m9ra_channel](https://t.me/m9m9ra_channel)
+- [Email: vasa4g@gmail.com](mailto:vasa4g@gmail.com)
 
 ## 🛠 Технологии
 
