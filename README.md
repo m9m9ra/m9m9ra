@@ -32,10 +32,11 @@
 ## 🛠 Демонстрации
 
 ![Иллюстрация к проекту](https://github.com/m9m9ra/m9m9ra/blob/main/ico.svg)
+<!--
 <div style="display: flex">
 <img src="./ico.svg" alt="ЯРека" style="scale: 1.4">
 </div>
-
+--->
 
 <!---
 m9m9ra/m9m9ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
