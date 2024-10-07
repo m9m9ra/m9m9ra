@@ -6,8 +6,8 @@
 Я разработчик с опытом работы в Flutter/React-Native.
 
 ## 💻 Навыки
-- Языки: JavaScript, TypeScript, Dart, bash, sql, node.js
 - Фреймворки: Flutter, React Native, Express, Vue.js
+- Языки: JavaScript, TypeScript, Dart, bash, sql, node.js
 
 ## 📂 Проекты
 - [TODOIS](https://www.rustore.ru/catalog/app/com.m9m9ra.todois) - 
@@ -24,6 +24,7 @@
 <div style="display: flex">
 <img src="./ico.svg" alt="ЯРека" style="scale: 1.9">
 </div>
+--->
 
 ## 📫 Контакты
 - [Telegram @m9m9ra](https://t.me/m9m9ra)
@@ -38,7 +39,6 @@
 | React-Native | ★★★★★        | [Беготрек_beta](https://github.com/m9m9ra/RN-running-mobile/tree/v0.0.5) |
 | Dart         | ★★★★☆        | [Coming soon]|
 | TypeScript   | ★★★★☆        | [Not A Bot](https://github.com/m9m9ra/not-a-bot) |
---->
 
 <!---
 m9m9ra/m9m9ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
