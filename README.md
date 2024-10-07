@@ -17,6 +17,14 @@
   https://www.rustore.ru/catalog/app/com.m9m9ra.todois
 - [Беготрек (coming soon...)](https://github.com/ваш-логин/project2) - Беготрек — это мобильное приложение для любителей бега и активного образа жизни. Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс. Основные функции приложения включают:
 
+## 🛠 Демонстрации
+
+![Иллюстрация к проекту](https://github.com/m9m9ra/m9m9ra/blob/main/ico.svg)
+<!--
+<div style="display: flex">
+<img src="./ico.svg" alt="ЯРека" style="scale: 1.9">
+</div>
+
 ## 📫 Контакты
 - [Telegram @m9m9ra](https://t.me/m9m9ra)
 - [Telegram_channel @m9m9ra_channel](https://t.me/m9m9ra_channel)
@@ -30,14 +38,6 @@
 | React-Native | ★★★★★        | [Беготрек_beta](https://github.com/m9m9ra/RN-running-mobile/tree/v0.0.5) |
 | Dart         | ★★★★☆        | [Coming soon]|
 | TypeScript   | ★★★★☆        | [Not A Bot](https://github.com/m9m9ra/not-a-bot) |
-
-## 🛠 Демонстрации
-
-![Иллюстрация к проекту](https://github.com/m9m9ra/m9m9ra/blob/main/ico.svg)
-<!--
-<div style="display: flex">
-<img src="./ico.svg" alt="ЯРека" style="scale: 1.9">
-</div>
 --->
 
 <!---
