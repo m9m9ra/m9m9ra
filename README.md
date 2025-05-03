@@ -1,10 +1,10 @@
 # Привет, я Игорь (@m9m9ra | Developer) 👋
 
 [![](https://m9m9ra.github.io/og.png)](https://m9m9ra.github.io)
-
+<!--
 ## 🚀 Информация обо мне
 Я разработчик с опытом работы в Flutter/React-Native.
-
+-->
 ## 💻 Навыки
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
