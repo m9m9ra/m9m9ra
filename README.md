@@ -3,7 +3,7 @@
 [![](https://m9m9ra.github.io/og.png)](https://m9m9ra.github.io)
 <!--
 ## 🚀 Информация обо мне
-Я разработчик с опытом работы в Flutter/React-Native.
+Middle Flutter/React-Native developer.
 -->
 ## 💻 Навыки
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -33,7 +33,7 @@
   специально разработанное для пользователей Android. 
   Оно поможет вам организовать своё время и достичь ваших целей с легкостью.
   https://www.rustore.ru/catalog/app/com.m9m9ra.todois
-- [Беготрек (coming soon...)](https://github.com/ваш-логин/project2) - Беготрек — это мобильное приложение для любителей бега и активного образа жизни. Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс. Основные функции приложения включают:
+- [Беготрек: бег, ходьба, фитнес, GPS трекер](https://www.rustore.ru/catalog/app/com.m9m9ra.running) - Беготрек — это мобильное приложение для любителей бега и активного образа жизни. Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс. https://www.rustore.ru/catalog/app/com.m9m9ra.running
 
 <!-- ## 🛠 Демонстрации
 
