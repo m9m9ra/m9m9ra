@@ -28,12 +28,14 @@ Middle Flutter/React-Native developer.
 
 
 ## 📂 Проекты
+- [Беготрек: бег, ходьба, фитнес, GPS трекер](https://www.rustore.ru/catalog/app/com.m9m9ra.running) - Беготрек — это мобильное приложение для любителей бега и активного образа жизни. Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс.
+  https://www.rustore.ru/catalog/app/com.m9m9ra.running
+  
 - [TODOIS](https://www.rustore.ru/catalog/app/com.m9m9ra.todois) - 
   это мощное приложение для управления задачами
   специально разработанное для пользователей Android. 
   Оно поможет вам организовать своё время и достичь ваших целей с легкостью.
   https://www.rustore.ru/catalog/app/com.m9m9ra.todois
-- [Беготрек: бег, ходьба, фитнес, GPS трекер](https://www.rustore.ru/catalog/app/com.m9m9ra.running) - Беготрек — это мобильное приложение для любителей бега и активного образа жизни. Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс. https://www.rustore.ru/catalog/app/com.m9m9ra.running
 
 <!-- ## 🛠 Демонстрации
 
