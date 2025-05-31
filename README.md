@@ -5,7 +5,7 @@
 ## 🚀 Информация обо мне
 Middle Flutter/React-Native developer.
 -->
-## 💻 Навыки
+## 💻 Навыки (skills)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -27,11 +27,18 @@ Middle Flutter/React-Native developer.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-## 📂 Проекты
-- [Беготрек: бег, ходьба, фитнес, GPS трекер](https://www.rustore.ru/catalog/app/com.m9m9ra.running) </br>
+## 📂 Проекты (projects)
+<!-- - [Беготрек: бег, ходьба, фитнес, GPS трекер](https://www.rustore.ru/catalog/app/com.m9m9ra.running) </br>
   Беготрек — это мобильное приложение для любителей бега и активного образа жизни.</br>
-  Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс.</br>
-  https://www.rustore.ru/catalog/app/com.m9m9ra.running
+  Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс.</br> -->
+  <!-- https://www.rustore.ru/catalog/app/com.m9m9ra.running -->
+
+<div style="display: flex">
+<a href="https://m9m9ra.github.io/projects/xrunner" style="width: 46%; display: block">
+<img src="https://github.com/m9m9ra/xrunner.png" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
+</a>
+<!-- <img src="./xrunner.png" alt="ЯРека" style="width: 47%"> -->
+</div>
 
 <!--
 - [Интелект]() - 
