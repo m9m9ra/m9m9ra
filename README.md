@@ -34,8 +34,8 @@ Middle Flutter/React-Native developer.
   <!-- https://www.rustore.ru/catalog/app/com.m9m9ra.running -->
 
 <div style="display: flex">
-<a href="https://m9m9ra.github.io/projects/xrunner" style="width: 46%; display: block">
-<img src="https://github.com/m9m9ra/m9m9ra/blob/dev/xrunner_img.png" style="width: 46%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
+<a href="https://m9m9ra.github.io/projects/xrunner" style=" display: block">
+<img src="https://github.com/m9m9ra/m9m9ra/blob/dev/xrunner_img.png" style="width: 48%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
 </a>
 </div>
 
