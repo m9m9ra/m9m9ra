@@ -35,7 +35,7 @@ Middle Flutter/React-Native developer.
 
 <div style="display: flex">
 <a href="https://m9m9ra.github.io/projects/xrunner" target="_blank" style=" display: block">
-<img src="https://github.com/m9m9ra/m9m9ra/blob/dev/xrunner_e.png" style="width: 47%; border: 1px solid gray; border-radius: 16px" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
+<img src="./xrunner_svg.svg" style="width: 47%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
 </a>
 
 <!--
