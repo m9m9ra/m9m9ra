@@ -33,10 +33,15 @@ Middle Flutter/React-Native developer.
   Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс.</br> -->
   <!-- https://www.rustore.ru/catalog/app/com.m9m9ra.running -->
 
-<div style="display: flex">
-<a href="https://m9m9ra.github.io/projects/xrunner" target="_blank" style=" display: block">
-<img src="./xrunner_svg.svg" style="width: 47%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap; text-align: center; width: 100%"/>
+<a href="https://m9m9ra.github.io/projects/xrunner" target="_blank">
+<img src="./xrunner_svg.svg" style="width: 49%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
 </a>
+⠀
+<a href="https://m9m9ra.github.io/projects/mokpell">
+<img src="./mokpell_s.svg" style="width: 49%" alt="Mokpell LLM">
+</a>
+</div>
 
 <!--
 - [Интелект]() - 
