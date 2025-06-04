@@ -35,11 +35,11 @@ Middle Flutter/React-Native developer.
 
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; text-align: center; width: 100%"/>
 <a href="https://m9m9ra.github.io/projects/xrunner" target="_blank">
-<img src="./xrunner_svg.svg" style="width: 49%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
+<img src="./xrunner_svg.svg" style="width: 47%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
 </a>
-⠀
+⠀⠀
 <a href="https://m9m9ra.github.io/projects/mokpell">
-<img src="./mokpell_s.svg" style="width: 49%" alt="Mokpell LLM">
+<img src="./mokpell_s.svg" style="width: 47%" alt="Mokpell LLM">
 </a>
 </div>
 
