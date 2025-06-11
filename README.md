@@ -64,7 +64,7 @@ You can click the Preview link to take a look at your changes.
     </td>
     <td>
       <a href="https://m9m9ra.github.io/projects/mokpell" target="_blank">
-        <img src="./mokpell_s.svg"  alt="Mokpell LLM">
+        <img src="./mokpell_beta.svg"  alt="Mokpell LLM">
       </a>
       <a href="https://testflight.apple.com/join/EPVKUNNa">
         <p>
