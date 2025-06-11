@@ -1,11 +1,24 @@
-# Привет, я Игорь (@m9m9ra | Developer) 👋
-
-[![](https://m9m9ra.github.io/og.png)](https://m9m9ra.github.io)
 <!--
-## 🚀 Информация обо мне
-Middle Flutter/React-Native developer.
--->
-## 💻 Навыки (skills)
+ _____ ______   ________  _____ ______   ________  ________  ________          ________  _______   ___      ___ 
+|\   _ \  _   \|\  ___  \|\   _ \  _   \|\  ___  \|\   __  \|\   __  \        |\   ___ \|\  ___ \ |\  \    /  /|
+\ \  \\\__\ \  \ \____   \ \  \\\__\ \  \ \____   \ \  \|\  \ \  \|\  \       \ \  \_|\ \ \   __/|\ \  \  /  / /
+ \ \  \\|__| \  \|____|\  \ \  \\|__| \  \|____|\  \ \   _  _\ \   __  \       \ \  \ \\ \ \  \_|/_\ \  \/  / / 
+  \ \  \    \ \  \  __\_\  \ \  \    \ \  \  __\_\  \ \  \\  \\ \  \ \  \       \ \  \_\\ \ \  \_|\ \ \    / /  
+   \ \__\    \ \__\|\_______\ \__\    \ \__\|\_______\ \__\\ _\\ \__\ \__\       \ \_______\ \_______\ \__/ /   
+    \|__|     \|__|\|_______|\|__|     \|__|\|_______|\|__|\|__|\|__|\|__|        \|_______|\|_______|\|__|/    
+                                                                                                                
+
+https://tools.picsart.com/text/font-generator/bold/
+
+m9m9ra/m9m9ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+# 𝗛𝗲𝗹𝗹𝗼 𝗶`𝗺 𝗜𝗴𝗼𝗿 (𝗺9𝗺9𝗿𝗮)
+[![](https://m9m9ra.github.io/og.png)](https://m9m9ra.github.io)
+
+
+## 💻 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 (Навыки)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -27,60 +40,66 @@ Middle Flutter/React-Native developer.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
-## 📂 Проекты (projects)
-<!-- - [Беготрек: бег, ходьба, фитнес, GPS трекер](https://www.rustore.ru/catalog/app/com.m9m9ra.running) </br>
-  Беготрек — это мобильное приложение для любителей бега и активного образа жизни.</br>
-  Оно позволяет пользователям отслеживать свои тренировки, устанавливать цели и анализировать прогресс.</br> -->
-  <!-- https://www.rustore.ru/catalog/app/com.m9m9ra.running -->
+## 📂 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 (Проекты)
 
+<table>
+  <tr>
+    <th align="left">
+      Беготрек \ 𝗫𝗥𝘂𝗻𝗻𝗲𝗿 (𝗯𝗲𝘁𝗮)
+    </th>
+    <th align="left">
+      𝗠𝗼𝗸𝗽𝗲𝗹𝗹 𝗟𝗟𝗠 (𝗼𝗽𝗲𝗻 𝗯𝗲𝘁𝗮 𝘁𝗲𝘀𝘁𝗶𝗻𝗴)
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://m9m9ra.github.io/projects/xrunner" target="_blank">
+        <img src="./xrunner_svg.svg" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
+      </a>
+      <a href="https://testflight.apple.com/join/GJCPYcQM">
+        <p>
+          <img src="./test_flight_badge.png" style="width: 21%" alt="XRunner testflight">
+        </p>
+      </a>
+    </td>
+    <td>
+      <a href="https://m9m9ra.github.io/projects/mokpell" target="_blank">
+        <img src="./mokpell_s.svg"  alt="Mokpell LLM">
+      </a>
+      <a href="https://testflight.apple.com/join/EPVKUNNa">
+        <p>
+          <img src="./test_flight_badge.png" style="width: 21%" alt="Mokpell LLM testflight">
+        </p>
+      </a>
+    </td>
+  </tr>
+
+</table>
+
+<!--
 <div style="display: flex; justify-content: space-between; flex-wrap: nowrap; text-align: center; width: 100%"/>
 <a href="https://m9m9ra.github.io/projects/xrunner" target="_blank">
 <img src="./xrunner_svg.svg" style="width: 48%" alt="Беготрек: бег, ходьба, фитнес, GPS трекер">
 </a>
 ⠀
-<a href="https://m9m9ra.github.io/projects/mokpell">
+<a>
 <img src="./mokpell_s.svg" style="width: 48%" alt="Mokpell LLM">
+<p><img src="./test_flight_badge.png" style="height: 12px" alt="Mokpell LLM"></p>
 </a>
 </div>
-
-<!--
-- [Интелект]() - 
-  
-  https://www.rustore.ru/catalog/app/com.m9m9ra.todois
-
-  
-- [TODOIS](https://www.rustore.ru/catalog/app/com.m9m9ra.todois) - 
-  это мощное приложение для управления задачами
-  специально разработанное для пользователей Android. 
-  Оно поможет вам организовать своё время и достичь ваших целей с легкостью.
-  https://www.rustore.ru/catalog/app/com.m9m9ra.todois
 -->
-<!-- ## 🛠 Демонстрации
 
-![Иллюстрация к проекту](https://github.com/m9m9ra/m9m9ra/blob/main/ico.svg)
-<!--
-<div style="display: flex">
-<img src="./ico.svg" alt="ЯРека" style="scale: 1.9">
-</div>
---->
 
-## 📫 Контакты
+## 📫 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀 𝗺𝗲 (Контакты)
 - [Telegram @m9m9ra](https://t.me/m9m9ra)
 - [Telegram_channel @m9m9ra_channel](https://t.me/m9m9ra_channel)
 - [Email: vasa4g@gmail.com](mailto:vasa4g@gmail.com)
 
 <!--
-## 🛠 Технологии
+## 𝗦𝘁𝗮𝘁𝘀
 
-| Технология   | Уровень      | Проект       |
-|--------------|--------------|--------------|
-| Flutter      | ★★★★★        | [TODOIS](https://www.rustore.ru/catalog/app/com.m9m9ra.todois) |
-| React-Native | ★★★★★        | [Беготрек_beta](https://github.com/m9m9ra/RN-running-mobile/tree/v0.0.5) |
-| Dart         | ★★★★☆        | [Coming soon]|
-| TypeScript   | ★★★★☆        | [Not A Bot](https://github.com/m9m9ra/not-a-bot) |
-
-
-m9m9ra/m9m9ra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![m9m9ra's Stats](https://github-readme-stats.vercel.app/api?username=m9m9ra&theme=default&show_icons=true&hide_border=false&count_private=true)
+![m9m9ra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=m9m9ra&theme=default&hide_border=false)
+-->
+🄼9🄼9🅁🄰 🄳🄴🅅
 
